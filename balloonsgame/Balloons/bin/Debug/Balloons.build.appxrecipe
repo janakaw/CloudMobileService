@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOOHYUN</Machine>
+    <WindowsUser>janaka</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c32f7652-e3a6-4f16-8560-392576511a69</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\css\balloons.css">
+      <PackagePath>css\balloons.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\fonts\Arizonia-Regular.ttf">
+      <PackagePath>fonts\Arizonia-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\fonts\OFL.txt">
+      <PackagePath>fonts\OFL.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\accept.png">
+      <PackagePath>images\accept.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_1.png">
+      <PackagePath>images\background_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_2.png">
+      <PackagePath>images\background_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_2b.png">
+      <PackagePath>images\background_2b.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_3.png">
+      <PackagePath>images\background_3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_3b.png">
+      <PackagePath>images\background_3b.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-black.png">
+      <PackagePath>images\balloon-black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-blue.png">
+      <PackagePath>images\balloon-blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-green.png">
+      <PackagePath>images\balloon-green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-orange.png">
+      <PackagePath>images\balloon-orange.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-purple.png">
+      <PackagePath>images\balloon-purple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-red.png">
+      <PackagePath>images\balloon-red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\BalloonsLogo.png">
+      <PackagePath>images\BalloonsLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\BalloonsTitle.png">
+      <PackagePath>images\BalloonsTitle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\explosion.png">
+      <PackagePath>images\explosion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\SplashLogo.png">
+      <PackagePath>images\SplashLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\Start.png">
+      <PackagePath>images\Start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\balloons.js">
+      <PackagePath>js\balloons.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\MobileServices.intellisense.js">
+      <PackagePath>js\MobileServices.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\MobileServices.js">
+      <PackagePath>js\MobileServices.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\MobileServices.min.js">
+      <PackagePath>js\MobileServices.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\sound.js">
+      <PackagePath>js\sound.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\utils.js">
+      <PackagePath>js\utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\newlevel.wav">
+      <PackagePath>sounds\newlevel.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\pop.wav">
+      <PackagePath>sounds\pop.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\pops.wav">
+      <PackagePath>sounds\pops.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\theme.wav">
+      <PackagePath>sounds\theme.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\victory.wav">
+      <PackagePath>sounds\victory.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

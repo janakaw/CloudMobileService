@@ -1,0 +1,303 @@
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH02\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Excercise Files\Balloons\Balloons\bin\Debug\resources.pri
+C:\Excercise Files\Balloons\Balloons\bin\Debug\AppxManifest.xml
+C:\Excercise Files\Balloons\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Excercise Files\Balloons\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Excercise Files\Balloons\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Excercise Files\Balloons\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Excercise Files\Balloons\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Excercise Files\Balloons\Balloons\bld\Debug\priconfig.xml
+C:\Excercise Files\Balloons\Balloons\bld\Debug\layout.resfiles
+C:\Excercise Files\Balloons\Balloons\bld\Debug\resources.resfiles
+C:\Excercise Files\Balloons\Balloons\bld\Debug\pri.resfiles
+C:\Excercise Files\Balloons\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Excercise Files\Balloons\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Start\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH04\Creating the Canvas\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Setting up Balloons\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Loop\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Updating and Rendering\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH05\Game Menu\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH06\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH07\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Start\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH08\Sound Effects\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH09\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bin\Debug\resources.pri
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bin\Debug\AppxManifest.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\priconfig.xml
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\layout.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\resources.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\pri.resfiles
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Dropbox\LyndaContent\Course-WindowsStoreGames\Course\Excercise Files\CH10\Start\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bin\Debug\resources.pri
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\priconfig.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\layout.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\resources.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\pri.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Share\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Users\David\Desktop\AppBar\Balloons\bin\Debug\resources.pri
+C:\Users\David\Desktop\AppBar\Balloons\bin\Debug\AppxManifest.xml
+C:\Users\David\Desktop\AppBar\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\priconfig.xml
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\layout.resfiles
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\resources.resfiles
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\pri.resfiles
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\Users\David\Desktop\AppBar\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bin\Debug\resources.pri
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\priconfig.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\layout.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\resources.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\pri.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\AppBar\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bin\Debug\resources.pri
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\priconfig.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\layout.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\resources.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\pri.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH09\Flyout\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bin\Debug\resources.pri
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\priconfig.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\layout.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\resources.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\pri.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Camera\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bin\Debug\resources.pri
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\priconfig.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\layout.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\resources.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\pri.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\CH10\Accelerometer\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bin\Debug\resources.pri
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bin\Debug\AppxManifest.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\priconfig.xml
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\layout.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\resources.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\pri.resfiles
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\LanguageQualifiers.txt
+C:\BuildingWindowsStoreGamesHTML-JS-Isbitski-Jan11th\Excercise Files\FINAL\Balloons\bld\Debug\ProjectArchitectures.txt
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bin\Debug\resources.pri
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bin\Debug\AppxManifest.xml
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\priconfig.xml
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\layout.resfiles
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\resources.resfiles
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\pri.resfiles
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\LanguageQualifiers.txt
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\MobileServices.pri.xml
+E:\Dropbox\LyndaContent\Azure Mobile Services - Shira\course\Exercise Files\CH03\Finish\Balloons\bld\Debug\ProjectArchitectures.txt
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bin\Debug\ReverseMap\resources.pri
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bin\Debug\AppxManifest.xml
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bin\Debug\Balloons.build.appxrecipe
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\priconfig.xml
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\priconfig.xml.intermediate
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\layout.resfiles
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\layout.resfiles.intermediate
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\resources.resfiles
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\resources.resfiles.intermediate
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\pri.resfiles
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\pri.resfiles.intermediate
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\qualifiers.txt
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\qualifiers.txt.intermediate
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\MobileServices.pri.xml
+C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\ProjectArchitectures.txt

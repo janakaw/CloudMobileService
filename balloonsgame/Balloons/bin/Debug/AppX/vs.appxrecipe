@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOOHYUN</Machine>
+    <WindowsUser>janaka</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c32f7652-e3a6-4f16-8560-392576511a69</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>34E998015DAA673CFFC6224C26069B87E4590C8220D75746D116B895910354CA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c32f7652-e3a6-4f16-8560-392576511a69_1.1.0.0_neutral__ywwvhtjmx9rt8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c32f7652-e3a6-4f16-8560-392576511a69_ywwvhtjmx9rt8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c32f7652-e3a6-4f16-8560-392576511a69</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=David</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-16T06:52:15.585</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\css\balloons.css">
+      <PackagePath>css\balloons.css</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-02-16T05:32:21.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\fonts\Arizonia-Regular.ttf">
+      <PackagePath>fonts\Arizonia-Regular.ttf</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\fonts\OFL.txt">
+      <PackagePath>fonts\OFL.txt</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\accept.png">
+      <PackagePath>images\accept.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_1.png">
+      <PackagePath>images\background_1.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_2.png">
+      <PackagePath>images\background_2.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_2b.png">
+      <PackagePath>images\background_2b.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_3.png">
+      <PackagePath>images\background_3.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\background_3b.png">
+      <PackagePath>images\background_3b.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-black.png">
+      <PackagePath>images\balloon-black.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-blue.png">
+      <PackagePath>images\balloon-blue.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-green.png">
+      <PackagePath>images\balloon-green.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-orange.png">
+      <PackagePath>images\balloon-orange.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-purple.png">
+      <PackagePath>images\balloon-purple.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\balloon-red.png">
+      <PackagePath>images\balloon-red.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\BalloonsLogo.png">
+      <PackagePath>images\BalloonsLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\BalloonsTitle.png">
+      <PackagePath>images\BalloonsTitle.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\explosion.png">
+      <PackagePath>images\explosion.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\SplashLogo.png">
+      <PackagePath>images\SplashLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\Start.png">
+      <PackagePath>images\Start.png</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\balloons.js">
+      <PackagePath>js\balloons.js</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-02-16T07:00:57.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\MobileServices.intellisense.js">
+      <PackagePath>js\MobileServices.intellisense.js</PackagePath>
+      <Modified>2013-06-22T21:23:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\MobileServices.js">
+      <PackagePath>js\MobileServices.js</PackagePath>
+      <Modified>2013-06-22T21:23:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\MobileServices.min.js">
+      <PackagePath>js\MobileServices.min.js</PackagePath>
+      <Modified>2013-06-22T21:23:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\sound.js">
+      <PackagePath>js\sound.js</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\js\utils.js">
+      <PackagePath>js\utils.js</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2013-06-22T21:23:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\newlevel.wav">
+      <PackagePath>sounds\newlevel.wav</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\pop.wav">
+      <PackagePath>sounds\pop.wav</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\pops.wav">
+      <PackagePath>sounds\pops.wav</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\theme.wav">
+      <PackagePath>sounds\theme.wav</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\sounds\victory.wav">
+      <PackagePath>sounds\victory.wav</PackagePath>
+      <Modified>2013-06-21T13:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\janaka\OneDrive\visual studio 2013 projects\cloud\baloon\Finish\Balloons\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-16T06:52:15.332</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
